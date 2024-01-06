@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-06T21:30:23Z" name="Default suite" finished-at="2024-01-06T21:30:28Z" duration-ms="5324">
+    <groups>
+    </groups>
+    <test started-at="2024-01-06T21:30:23Z" name="Default test" finished-at="2024-01-06T21:30:28Z" duration-ms="5324">
+      <class name="com.bootcamp_part1_difficult_submission.ShoppingCartPageTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.bootcamp_part1_difficult_submission.ShoppingCartPageTest@12359a82]" started-at="2024-01-06T16:30:23Z" name="openBrowser" finished-at="2024-01-06T16:30:27Z" duration-ms="4131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="addProductToCart()[pri:0, instance:com.bootcamp_part1_difficult_submission.ShoppingCartPageTest@12359a82]" started-at="2024-01-06T16:30:27Z" name="addProductToCart" finished-at="2024-01-06T16:30:28Z" duration-ms="1185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+      </class> <!-- com.bootcamp_part1_difficult_submission.ShoppingCartPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
